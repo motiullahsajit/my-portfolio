@@ -46,7 +46,7 @@ p{
 .middle-section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: right center;
 }
 .third-section{
     background-image: url(images/exp-bg.png);
