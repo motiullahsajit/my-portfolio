@@ -63,8 +63,7 @@ p{
     border-left: 7px solid;
 }
 #full-stack{
-    border-image: linear-gradient(180deg, rgb(253, 92, 64),rgb(252, 165, 130));
-    border-image-slice: 1; 
+    border-image: linear-gradient(180deg, rgb(253, 92, 64),rgb(252, 165, 130)) 1;
 }
 #baby-web{
     border-image: linear-gradient(180deg, rgb(23, 23, 233), rgb(21, 209, 209));
