@@ -4,8 +4,9 @@ body{
     padding: 0;
 }
 section{
-    height: 500px;
-    padding-bottom: 150px;
+    height: 610px;
+    padding-bottom: 140px;
+    display: block;
 }
 img{
     width: 100%;
