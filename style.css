@@ -4,8 +4,8 @@ body{
     padding: 0;
 }
 section{
-    height: 610px;
-    padding-bottom: 140px;
+    height: 500px;
+    padding-bottom: 160px;
     display: block;
 }
 img{
@@ -53,6 +53,7 @@ p{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left center;
+    clear: both;
 }
 .third-section h1{
     padding-left: 15px;
